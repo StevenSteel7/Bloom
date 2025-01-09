@@ -1,5 +1,5 @@
 'use client';
-import splitStringUsingRegex from '@/utils/splitStringUsingRegex'
+import splitStringUsingRegex from '../../utils/splitStringUsingRegex'
 import { motion } from 'framer-motion'
 
 const heading = `Introducing`;
