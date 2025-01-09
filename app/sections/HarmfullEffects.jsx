@@ -130,7 +130,7 @@ const HarmfullEffects = () => {
           <div className="origin-top">
             <motion.img
               style={{ scale, x ,opacity}}
-              src="/vector.svg"
+              src="/Vector.svg"
               className="h-[80vh] w-auto"/>
             
             
