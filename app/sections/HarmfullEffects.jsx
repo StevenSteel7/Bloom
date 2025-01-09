@@ -219,9 +219,6 @@ const HarmfullEffects = () => {
             Doom Scrolling
           </span>
         </motion.div>
-
-        
-        
       </div>
       
     </div>

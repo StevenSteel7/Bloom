@@ -37,7 +37,7 @@ export const Hero = () => {
   before:inset-0  before:bg-[radial-gradient(circle_farthest-side_at_var(--mouse-x,_100px)_var(--mouse-y,_100px),_var(--color-secondary)_0%,_transparent_100%)] 
   before:opacity-40"
 >
-<motion.div
+      <motion.div
       /*  taken from position variable 
           if we reach bottom , make it relative*/
         style={{ position, scale}}
